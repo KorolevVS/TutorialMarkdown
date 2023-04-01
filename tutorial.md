@@ -38,6 +38,18 @@
 
 ## Ссылки
 
++ для блок схем - https://www.diagrams.net/
++ для планирования - https://miro.com/app/dashboard/
++ облако знаний - https://www.notion.so/Getting-Started-f1bc4032105643b79bf6e8f00d25486a
++ карточки смысла - https://quizlet.com/ru
++ викторина - https://quizizz.com/join
++ онлайн компилятор - https://www.onlinegdb.com/
++ интерактивный тренажер GIT - https://learngitbranching.js.org/?locale=ru_RU
++ GitHub - https://github.com/
+	+ Что мы не знаем про GitHub? - https://t.me/iksergeyru/6
+	+ Как начать в git и github.com - https://t.me/iksergeyru/102
+	+ Как начать в Visual Studio Code - https://t.me/iksergeyru/103
+
 
 ## Таблицы
 
